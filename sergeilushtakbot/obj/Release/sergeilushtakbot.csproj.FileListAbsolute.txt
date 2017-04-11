@@ -1,0 +1,42 @@
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Bot Application.dll.config
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Bot Application.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Bot Application.pdb
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Autofac.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Chronic.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Newtonsoft.Json.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.Net.Http.Formatting.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.Web.Http.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.Web.Http.WebHost.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Autofac.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\Newtonsoft.Json.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.Net.Http.Formatting.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.Web.Http.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\System.Web.Http.WebHost.xml
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\obj\Release\sergeilushtakbot.csprojResolveAssemblyReference.cache
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\obj\Release\Bot Application.dll
+C:\Users\Koshkin\Documents\Visual Studio 2017\Projects\sergeilushtakbot\sergeilushtakbot\obj\Release\Bot Application.pdb
